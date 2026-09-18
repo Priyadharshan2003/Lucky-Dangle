@@ -3,50 +3,63 @@ A lucky charm for your screen.
 Choose a charm and hang it from the top of your screen, on Mac or Windows. It sways while you work, stays out of every click, and drops in when you call it.
 Try the charm: grab it and give it a flick.
 
+<video src="assets/mac-demo.mp4" width="100%" controls autoplay loop></video>
+
 ## Choose your charm
 Each one comes from a tradition around the world, with a small ritual of its own. Pick a charm to hang it on this page.
 
 ### Nazar boncuğu
+<img src="apps/desktop/public/charms/nazar.png" width="50" height="50">
 Turkey and the Mediterranean
 A glass eye worn against the evil eye. Give it a flick when you want a little cover.
 
 ### Hamsa
+<img src="apps/desktop/public/charms/hamsa.png" width="50" height="50">
 Middle East and North Africa
 An open hand carried for protection and good fortune. Give it a flick to send bad luck on its way.
 
 ### Nimbu-mirchi
+<img src="apps/desktop/public/charms/nimbu-lemon.png" width="50" height="50">
 India
 Seven chilies and a lemon hung at the threshold to turn away misfortune. Replace it with a fresh one when the week is up.
 
 ### Ghanta
+<img src="apps/desktop/public/charms/ghanta.png" width="50" height="50">
 India
 A bell rung to clear the air and mark a beginning. Ring it when you make a wish, or before something that matters.
 
 ### Drishti bommai
+<img src="apps/desktop/public/charms/drishti-bommai.png" width="50" height="50">
 South India
 A fierce guardian painted to meet the first bad glance. Repaint it through seven colors whenever you want a fresh start.
 
 ### Páncháng jié
+<img src="apps/desktop/public/charms/chinese-knot.png" width="50" height="50">
 China
 One unbroken red cord tied for good fortune without end. Cinch it gently and let the tassel settle.
 
 ### Daruma
+<img src="apps/desktop/public/charms/daruma.png" width="50" height="50">
 Japan
 A wishing doll for goals that take some grit. Paint one eye when you make a wish and the other when it comes true.
 
 ### Maneki-neko
+<img src="apps/desktop/public/charms/maneki-neko.png" width="50" height="50">
 Japan
 A beckoning cat that invites good fortune in. Call on it and watch its raised paw wave.
 
 ### Horseshoe
+<img src="apps/desktop/public/charms/horseshoe.png" width="50" height="50">
 Europe and the Americas
 Hung points up so the luck stays put. A good flick is all this one needs.
 
 ### Scarab
+<img src="apps/desktop/public/charms/scarab.png" width="50" height="50">
 Ancient Egypt
 An ancient amulet for renewal and new beginnings. Spread its ceremonial wings for a moment, then let them rest.
 
 ### Himmeli
+<img src="apps/desktop/public/charms/himmeli.png" width="50" height="50">
 Finland
 A rye-straw tradition for inviting abundance, prosperity, and a fruitful flow of work. Set its open geometry turning on an imagined current of air.
 
