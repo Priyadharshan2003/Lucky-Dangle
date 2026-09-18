@@ -1,6 +1,6 @@
 {
   "$schema": "../node_modules/@tauri-apps/cli/config.schema.json",
-  "productName": "Antigravity Charms",
+  "productName": "Lucky Charms",
   "version": "0.1.0",
   "identifier": "app.luckydangle.desktop",
   "build": {
@@ -12,7 +12,7 @@
   "app": {
     "windows": [
       {
-        "title": "Antigravity Charms",
+        "title": "Lucky Charms",
         "width": 400,
         "height": 550,
         "x": 0,
