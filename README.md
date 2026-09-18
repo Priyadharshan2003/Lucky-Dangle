@@ -1,4 +1,7 @@
 # Lucky Dangle
+
+<img src="assets/social_preview.jpg" width="100%" alt="Lucky Charm Banner">
+
 A lucky charm for your screen.
 Choose a charm and hang it from the top of your screen, on Mac or Windows. It sways while you work, stays out of every click, and drops in when you call it.
 Try the charm: grab it and give it a flick.
