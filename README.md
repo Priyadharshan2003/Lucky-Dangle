@@ -1,7 +1,6 @@
 # Lucky Dangle
 A lucky charm for your screen.
 Choose a charm and hang it from the top of your screen, on Mac or Windows. It sways while you work, stays out of every click, and drops in when you call it.
-[Get Lucky Dangle](https://luckydangle.app/#pricing)[Meet the charms](https://luckydangle.app/#collection)
 Try the charm: grab it and give it a flick.
 
 ## Choose your charm
